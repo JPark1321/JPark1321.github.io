@@ -6,7 +6,7 @@ Welcome! This repository contains my personal web design and frontend portfolio,
 I am a student web designer and frontend developer with an interest in building clean, accessible, and user-focused interfaces. I enjoy working with modern frontend tools and continuously improving my design and development skills.
 
 ## Skills
-- **Design:** Figma, UI/UX fundamentals, wireframing
+- **Design:** Figma, UI/UX fundamentals, Wireframing
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Tools:** Git, GitHub, Responsive Design
 
@@ -17,7 +17,7 @@ I am a student web designer and frontend developer with an interest in building 
 Redesign + implementation of AI-chat services catered towards studying and self-growth.
 
 **Tools:** Figma, TypeScript, HTML
-🔗 Live Site: https://github.com/Britwad/GPTree
+💻 GitHub: https://github.com/Britwad/GPTree
 
 ---
 
@@ -35,7 +35,7 @@ Integrated AI-helper to take care of assigned tasks with one button click. Built
 App designed for website and mobile use that can listen and analyze your current situation to detect the severity level and inform you of the most helpful countermeasures and call the appropriate people.
 
 **Tools:** JavaScript, TypeScript, CSS, Tailwind, AWS Bedrock
-🔗 Live Site: https://github.com/ImVarity/Swifter
+💻 GitHub: https://github.com/ImVarity/Swifter
 
 ## Contact
 - **Email:** jpark132@uw.edu
