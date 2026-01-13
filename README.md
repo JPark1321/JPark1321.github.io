@@ -17,7 +17,7 @@ I am a student web designer and frontend developer with an interest in building 
 Redesign + implementation of AI-chat services catered towards studying and self-growth.
 
 **Tools:** Figma, TypeScript, HTML
-💻 GitHub: https://github.com/Britwad/GPTree
+💻 GitHub: [https://github.com/Britwad/GPTree](https://github.com/Britwad/GPTree)
 
 ---
 
@@ -26,7 +26,7 @@ Redesign + implementation of AI-chat services catered towards studying and self-
 Integrated AI-helper to take care of assigned tasks with one button click. Built and designed for the existing Atlassian tools Jira and Bitbucket.
 
 **Tools:** React, JavaScript, Atlassian Jira, Atlassian BitBucket  
-💻 GitHub: https://github.com/JPark1321/jello
+💻 GitHub: [https://github.com/JPark1321/jello](https://github.com/JPark1321/jello)
 
 ---
 
@@ -35,7 +35,7 @@ Integrated AI-helper to take care of assigned tasks with one button click. Built
 App designed for website and mobile use that can listen and analyze your current situation to detect the severity level and inform you of the most helpful countermeasures and call the appropriate people.
 
 **Tools:** JavaScript, TypeScript, CSS, Tailwind, AWS Bedrock
-💻 GitHub: https://github.com/ImVarity/Swifter
+💻 GitHub: [https://github.com/ImVarity/Swifter](https://github.com/ImVarity/Swifter)
 
 ## Contact
 - **Email:** jpark132@uw.edu
