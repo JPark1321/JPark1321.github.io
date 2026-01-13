@@ -8,40 +8,39 @@ I am a student web designer and frontend developer with an interest in building 
 ## Skills
 - **Design:** Figma, UI/UX fundamentals, wireframing
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Tools:** Git, GitHub, Vite, Responsive Design
+- **Tools:** Git, GitHub, Responsive Design
 
 ## Projects
 
-### Project 1: Nonprofit Website Redesign (Concept)
+### Project 1: GPTree
 **Description:**  
-A conceptual redesign of a nonprofit organization website focused on improving visual clarity, accessibility, and navigation.
+Redesign + implementation of AI-chat services catered towards studying and self-growth.
 
-**Tools:** Figma, HTML, CSS  
-🔗 Live Site: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME  
-🎨 Design: (optional Figma link)
+**Tools:** Figma, TypeScript, HTML
+🔗 Live Site: https://github.com/Britwad/GPTree
 
 ---
 
-### Project 2: Frontend Web Application
+### Project 2: Atlassian Merge
 **Description:**  
-A responsive frontend application built to demonstrate component-based UI development and modern styling practices.
+Integrated AI-helper to take care of assigned tasks with one button click. Built and designed for the existing Atlassian tools Jira and Bitbucket.
 
-**Tools:** React, Tailwind CSS, JavaScript  
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+**Tools:** React, JavaScript, Atlassian Jira, Atlassian BitBucket  
+💻 GitHub: https://github.com/JPark1321/jello
 
 ---
 
-### Project 3: Personal or Class Project
+### Project 3: Swifter
 **Description:**  
-A web project completed as part of coursework or personal exploration, focusing on layout, responsiveness, and clean UI.
+App designed for website and mobile use that can listen and analyze your current situation to detect the severity level and inform you of the most helpful countermeasures and call the appropriate people.
 
-**Tools:** HTML, CSS, JavaScript  
-🔗 Live Site: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME
+**Tools:** JavaScript, TypeScript, CSS, Tailwind, AWS Bedrock
+🔗 Live Site: https://github.com/ImVarity/Swifter
 
 ## Contact
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **LinkedIn:** https://linkedin.com/in/YOUR_PROFILE
+- **Email:** jpark132@uw.edu
+- **GitHub:** https://github.com/JPark1321
+- **LinkedIn:** https://www.linkedin.com/in/jungho-park-8527742a9/
 
 ---
 *Thank you for taking the time to review my portfolio.*
